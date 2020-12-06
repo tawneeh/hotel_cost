@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj": {}
+    "C:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj": {
+    "C:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj",
+        "projectUniqueName": "C:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj",
         "projectName": "HotelCost",
-        "projectPath": "c:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj",
+        "projectPath": "C:\\Users\\Tawnee\\Desktop\\hotel_cost\\HotelCost.csproj",
         "packagesPath": "C:\\Users\\Tawnee\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Tawnee\\Desktop\\hotel_cost\\obj\\",
+        "outputPath": "C:\\Users\\Tawnee\\Desktop\\hotel_cost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

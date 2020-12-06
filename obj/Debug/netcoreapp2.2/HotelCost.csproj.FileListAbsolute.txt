@@ -1,0 +1,11 @@
+C:\Users\Tawnee\Desktop\hotel_cost\bin\Debug\netcoreapp2.2\HotelCost.deps.json
+C:\Users\Tawnee\Desktop\hotel_cost\bin\Debug\netcoreapp2.2\HotelCost.runtimeconfig.json
+C:\Users\Tawnee\Desktop\hotel_cost\bin\Debug\netcoreapp2.2\HotelCost.runtimeconfig.dev.json
+C:\Users\Tawnee\Desktop\hotel_cost\bin\Debug\netcoreapp2.2\HotelCost.dll
+C:\Users\Tawnee\Desktop\hotel_cost\bin\Debug\netcoreapp2.2\HotelCost.pdb
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.csprojAssemblyReference.cache
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.csproj.CoreCompileInputs.cache
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.AssemblyInfoInputs.cache
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.AssemblyInfo.cs
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.dll
+C:\Users\Tawnee\Desktop\hotel_cost\obj\Debug\netcoreapp2.2\HotelCost.pdb
